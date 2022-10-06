@@ -1,0 +1,5 @@
+# This is a gitignore. Any file path/patterns you want to not be noticed by git go in here.
+EnvelopeFollower/Builds/*
+EnvelopeFollower/JuceLibraryCode/*
+juce*
+.vs
